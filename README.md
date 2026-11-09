@@ -1137,7 +1137,7 @@ Graph, compute, and sketch ideas.
 - **[Mermaid](https://mermaid.js.org/)** - Draw flowcharts and diagrams from text, open source (free).
 - **[MolView](https://molview.org/)** - Explore molecules in 3D and build reaction diagrams in the browser (free).
 - **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring physics, chemistry, biology, and math (free).
-- **[Space Atlas](https://saramjh.github.io/space_atlas_student/)** - Explore interactive astronomy models and teacher activities (free).
+- **[Space Atlas](https://spaceatlasedu.org/)** - Explore interactive astronomy models and teacher activities (free).
 - **[Tinkercad](https://www.tinkercad.com)** - Design and simulate 3D models, circuits, and code in the browser (freemium).
 - **[Wolfram Alpha](https://www.wolframalpha.com)** - Computational engine for step-by-step math and science (freemium).
 
